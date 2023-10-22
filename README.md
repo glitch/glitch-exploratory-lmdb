@@ -1,8 +1,7 @@
-# An example Java 11 project using Maven and JUnit 5.x
+# Exploratory project for LMDBJava
 
-1. Get adoptopenjdk-11: https://adoptopenjdk.net/
-2. Get maven 3.6.x: https://maven.apache.org/
-3. Add above to your path if neccessary.
-4. `git clone git@github.com:example/test.git`
-5. `mvn clean package`
-6. `java -jar target/test-1.0.0-SNAPSHOT.jar`
+You should check out lmdbjava : https://github.com/lmdbjava/lmdbjava because it looks cool!
+
+## Description
+This is an _exploratory_ project to learn how to use LMDB and specifically the lmdbjava project which has Java bindings for LMDB.
+
