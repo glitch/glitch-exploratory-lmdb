@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<profiles version="22">
+  <profile kind="CodeFormatterProfile" name="Custom look-o-matic formatter" version="22">
+    <setting id="org.eclipse.jdt.core.formatter.tabulation.char" value="space"/>
+    <setting id="org.eclipse.jdt.core.formatter.tabulation.size" value="2"/>
+  </profile>
+</profiles>
